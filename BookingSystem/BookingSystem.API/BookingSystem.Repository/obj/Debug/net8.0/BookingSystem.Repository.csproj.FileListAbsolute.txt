@@ -1,0 +1,15 @@
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\obj\Debug\net8.0\BookingSystem.Repository.csproj.AssemblyReference.cache
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\obj\Debug\net8.0\BookingSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\obj\Debug\net8.0\BookingSystem.Repository.AssemblyInfoInputs.cache
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\obj\Debug\net8.0\BookingSystem.Repository.AssemblyInfo.cs
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\obj\Debug\net8.0\BookingSystem.Repository.csproj.CoreCompileInputs.cache
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\bin\Debug\net8.0\BookingSystem.Repository.deps.json
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\bin\Debug\net8.0\BookingSystem.Repository.dll
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\bin\Debug\net8.0\BookingSystem.Repository.pdb
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\bin\Debug\net8.0\BookingSystem.Data.dll
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\bin\Debug\net8.0\BookingSystem.Data.pdb
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\obj\Debug\net8.0\BookingS.E00D49E6.Up2Date
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\obj\Debug\net8.0\BookingSystem.Repository.dll
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\obj\Debug\net8.0\refint\BookingSystem.Repository.dll
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\obj\Debug\net8.0\BookingSystem.Repository.pdb
+E:\BookingSystem\BookingSystem.API\BookingSystem.Repository\obj\Debug\net8.0\ref\BookingSystem.Repository.dll

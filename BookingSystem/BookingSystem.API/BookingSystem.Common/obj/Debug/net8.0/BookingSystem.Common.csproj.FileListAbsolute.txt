@@ -1,0 +1,11 @@
+E:\BookingSystem\BookingSystem.API\BookingSystem.Common\bin\Debug\net8.0\BookingSystem.Common.deps.json
+E:\BookingSystem\BookingSystem.API\BookingSystem.Common\bin\Debug\net8.0\BookingSystem.Common.dll
+E:\BookingSystem\BookingSystem.API\BookingSystem.Common\bin\Debug\net8.0\BookingSystem.Common.pdb
+E:\BookingSystem\BookingSystem.API\BookingSystem.Common\obj\Debug\net8.0\BookingSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookingSystem\BookingSystem.API\BookingSystem.Common\obj\Debug\net8.0\BookingSystem.Common.AssemblyInfoInputs.cache
+E:\BookingSystem\BookingSystem.API\BookingSystem.Common\obj\Debug\net8.0\BookingSystem.Common.AssemblyInfo.cs
+E:\BookingSystem\BookingSystem.API\BookingSystem.Common\obj\Debug\net8.0\BookingSystem.Common.csproj.CoreCompileInputs.cache
+E:\BookingSystem\BookingSystem.API\BookingSystem.Common\obj\Debug\net8.0\BookingSystem.Common.dll
+E:\BookingSystem\BookingSystem.API\BookingSystem.Common\obj\Debug\net8.0\refint\BookingSystem.Common.dll
+E:\BookingSystem\BookingSystem.API\BookingSystem.Common\obj\Debug\net8.0\BookingSystem.Common.pdb
+E:\BookingSystem\BookingSystem.API\BookingSystem.Common\obj\Debug\net8.0\ref\BookingSystem.Common.dll
